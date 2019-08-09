@@ -2,9 +2,9 @@ body{
   background-color: white;
 }
 #header_box_red{
-  border-style: solid;
-  border-width: 2px;
-  border-color: black;
+  /* border-style: solid;
+  border-width: 2px; */
+  /* border-color: black; */
   height: 50px;
   width: 100%;
   background-color:red;
@@ -13,9 +13,9 @@ body{
 }
 
 #text_5280_landmarks{
-  border-style: solid;
+  /* border-style: solid;
   border-width: 2px;
-  border-color: black;
+  border-color: black; */
   height: 50px;
   width: 200px;
   background-color:red;
@@ -28,9 +28,9 @@ body{
 
 #text_login{
   color: white;
-  border-style: solid;
+  /* border-style: solid;
   border-width: 2px;
-  border-color: black;
+  border-color: black; */
   height: 50px;
   width: 80px;
   background-color:red;
@@ -40,9 +40,9 @@ body{
 }
 
 #black_header_2{
-  border-width: 2px;
-  border-color: black;
-  height: 50px;
+  /* border-width: 2px;
+  border-color: black; */
+  height: 40px;
   width: 100%;
   background-color:grey;
   float: left;
@@ -50,9 +50,9 @@ body{
 }
 
 #text_links{
-  border-style: solid;
+  /* border-style: solid;
   border-width: 2px;
-  border-color: black;
+  border-color: black; */
   height: 50px;
   width: 300px;
   background-color:grey;
@@ -65,9 +65,9 @@ body{
 }
 
 #left_section{
-  border-style:solid;
+  /* border-style:solid;
   border-width: 2px;
-  border-color:black;
+  border-color:black; */
   float: left;
   height: 600px;
   width: 1000px;
@@ -77,22 +77,22 @@ body{
 }
 
 #right_section{
-  border-style:solid;
+  /* border-style:solid;
   border-width: 2px;
-  border-color:black;
+  border-color:black; */
   float: left;
-  height: 600px;
+  height: 650px;
   width: 250px;
   margin-left:10px;
 }
 
 #footer{
-  border-style:solid;
+  /* border-style:solid;
   border-width:2px;
-  border-color:black;
+  border-color:black; */
   float: left;
   height: 80px;
-  width: 100%;
+  width: auto;
   background-color:grey;
   padding-left: 20px;
   padding-right: 20px;
