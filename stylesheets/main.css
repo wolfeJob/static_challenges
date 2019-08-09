@@ -1,0 +1,101 @@
+body{
+  background-color: white;
+}
+#header_box_red{
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+  height: 50px;
+  width: 100%;
+  background-color:red;
+  float: left;
+  overflow: hidden;
+}
+
+#text_5280_landmarks{
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+  height: 50px;
+  width: 200px;
+  background-color:red;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  float:left;
+  overflow:hidden;
+  color: white;
+}
+
+#text_login{
+  color: white;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+  height: 50px;
+  width: 80px;
+  background-color:red;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  float:right;
+}
+
+#black_header_2{
+  border-width: 2px;
+  border-color: black;
+  height: 50px;
+  width: 100%;
+  background-color:grey;
+  float: left;
+  overflow: hidden;
+}
+
+#text_links{
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+  height: 50px;
+  width: 300px;
+  background-color:grey;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-right: 30px;
+  text-align:center;
+  float:right;
+  color: white;
+}
+
+#left_section{
+  border-style:solid;
+  border-width: 2px;
+  border-color:black;
+  float: left;
+  height: 600px;
+  width: 1000px;
+  margin-right: 20px;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+#right_section{
+  border-style:solid;
+  border-width: 2px;
+  border-color:black;
+  float: left;
+  height: 600px;
+  width: 250px;
+  margin-left:10px;
+}
+
+#footer{
+  border-style:solid;
+  border-width:2px;
+  border-color:black;
+  float: left;
+  height: 80px;
+  width: 100%;
+  background-color:grey;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  color: white;
+}
